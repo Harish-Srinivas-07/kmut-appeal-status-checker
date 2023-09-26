@@ -64,9 +64,13 @@ python kmut_otp_bypass.py
 - **Harish Srinivas SR**
 - GitHub: [Harish-Srinivas-07](https://github.com/Harish-Srinivas-07)
 
----
 
-Explore the world of web automation, cybersecurity, and practical programming with this project!
+## 🙌 Credits
+
+Special thanks to the [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload). Burp Suite is an essential tool for web security testing and has been instrumental in helping young minds like us understand web security concepts. Thank you!
+
+
+
+Explore the world of cybersecurity, and practical programming with this project!
 
 Feel free to contribute or report issues in the [GitHub repository](https://github.com/Harish-Srinivas-07/kmut-appeal-status-checker).
-```
