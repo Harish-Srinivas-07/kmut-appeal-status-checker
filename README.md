@@ -62,14 +62,12 @@ python kmut_otp_bypass.py
 ## 👤 Author
 
 - **Harish Srinivas SR**
-- GitHub: [Harish-Srinivas-07](https://github.com/Harish-Srinivas-07)
+- [![GitHub](https://img.shields.io/badge/GitHub-Harish--Srinivas--07-blueviolet)](https://github.com/Harish-Srinivas-07)
 
 
 ## 🙌 Credits
 
-Special thanks to the [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload). Burp Suite is an essential tool for web security testing and has been instrumental in helping young minds like us understand web security concepts. Thank you!
-
-[![gov](https://img.shields.io/badge/Gov-%E2%9C%93-brightgreen)](https://example.gov) for inspiring this project and to [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%E2%9C%93-orange)](https://portswigger.net/burp/communitydownload)
+Special thanks to the [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%E2%9C%93-orange)](https://portswigger.net/burp/communitydownload). Burp Suite is an essential tool for web security testing and has been instrumental in helping young minds like us understand web security concepts. Thank you!
 
 Explore the world of cybersecurity, and practical programming with this project!
 
